@@ -3,9 +3,9 @@
 <plist version="1.0">
   <dict>
     <key>author</key>
-    <string>azemoh</string>
+    <string>brainsandspace</string>
     <key>name</key>
-    <string>Two Monokai</string>
+    <string>One Monokai Plus</string>
     <key>settings</key>
     <array>
 
@@ -13,7 +13,7 @@
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#222222</string>
+          <string>#000000</string>
 
           <key>caret</key>
           <string>#528bff</string>

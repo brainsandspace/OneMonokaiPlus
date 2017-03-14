@@ -1,0 +1,32 @@
+{
+    "name": "one-monokai-plus",
+    "displayName": "One Monokai Plus",
+    "version": "0.1.1",
+    "description": "Color theme built on the work of One Monokai by azemoh",
+    "publisher": "brainsandspace",
+    "engines": {
+        "vscode": "^0.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/brainsandspace/OneMonokaiPlus.git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Monokai Plus",
+                "uiTheme": "vs-dark",
+                "path": "./themes/OneMonokaiPlus.tmTheme"
+            }
+        ]
+    },
+    "author": "brainsandspace",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/brainsandspace/OneMonokaiPlus/issues"
+    },
+    "homepage": "https://github.com/brainsandspace/OneMonokaiPlus#readme"
+}
