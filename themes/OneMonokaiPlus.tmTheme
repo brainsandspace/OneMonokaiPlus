@@ -23,7 +23,7 @@
           <key>invisibles</key>
           <string>#4b525b</string>
           <key>lineHighlight</key>
-          <string>#2c323c</string>
+          <string>#000000</string>
           <key>findHighlight</key>
           <string>#FFE792</string>
           <key>findHighlightForeground</key>
