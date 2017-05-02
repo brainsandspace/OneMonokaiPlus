@@ -581,6 +581,80 @@
         </dict>
       </dict>
       
+      <!-- MARKDOWN/WHOA support-->
+    <dict>
+			<key>name</key>
+			<string>Markup Heading</string>
+			<key>scope</key>
+			<string>markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#569cd6</string>
+			</dict>
+		</dict>
+    
+    <dict>
+			<key>name</key>
+			<string>Markup Styling</string>
+			<key>scope</key>
+			<string>markup.bold</string>
+			<key>settings</key>
+      <dict>
+				<key>fontStyle</key>
+				<string>bold</string>
+			</dict>
+		</dict>
+
+    <dict>
+			<key>name</key>
+			<string>Markup Styling</string>
+			<key>scope</key>
+			<string>markup.italic</string>
+			<key>settings</key>
+      <dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+			</dict>
+		</dict>
+
+    <dict>
+			<key>name</key>
+			<string>Markup Raw</string>
+			<key>scope</key>
+			<string>markup.raw.inline.content.markdown</string>
+			<key>settings</key>
+      <dict>
+				<key>foreground</key>
+				<string>#ffff00</string>
+			</dict>
+		</dict>
+
+    <dict>
+			<key>name</key>
+			<string>Markup Tangent</string>
+			<key>scope</key>
+			<string>markup.tangent.whoa</string>
+			<key>settings</key>
+      <dict>
+				<key>foreground</key>
+				<string>#00ff99</string>
+			</dict>
+		</dict>
+
+    <dict>
+			<key>name</key>
+			<string>Tangent Punctuation</string>
+			<key>scope</key>
+			<string>punctuation.definition.tangent.whoa</string>
+			<key>settings</key>
+      <dict>
+				<key>foreground</key>
+				<string>#d6d6d6</string>
+			</dict>
+		</dict>
 
     </array>
     <key>uuid</key>
