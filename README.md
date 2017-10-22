@@ -1,3 +1,6 @@
+
+![](https://render.bitstrips.com/v2/cpanel/9936428-261090531_2-s4-v1.png?transparent=1&palette=1)
+
 # whoa-theme
 VS Code color theme
 
